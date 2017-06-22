@@ -1,2 +1,2 @@
 # windows-info
-Collection of tips and trics for handling Jabra devices on Windows.
+Collection of tips and tricks for handling Jabra devices on Windows.
